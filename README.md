@@ -1,7 +1,7 @@
 # API List
 
-From:
-https://publicapis.dev/
+From:<br/>
+https://publicapis.dev/ <br/>
 https://rapidapi.com/hub
 
 ## General Projects
