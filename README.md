@@ -34,6 +34,12 @@ https://rapidapi.com/squidcoders-squidcoders-default/api/consulta-cpf-e-nome
 Consulta Telefone:
 https://rapidapi.com/periclesdambroski1/api/consulta-numero
 
+Consulta Nome:
+https://rapidapi.com/periclesdambroski1/api/consulta-nome1
+
+Consulta Nome (DB do SUS):
+https://rapidapi.com/astrahvhdev/api/api-consulta-nome-cadsus
+
 PDF to text:
 https://rapidapi.com/sam.koucha/api/pdf-to-text
 
