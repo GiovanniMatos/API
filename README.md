@@ -1,8 +1,11 @@
 # API List
 
 ## General Projects
+File.io:
+https://www.file.io/
+
 QR Code with Logo: 
-https://rapidapi.com/qrcode-monkey/api/custom-qr-code-with-logo
+https://www.qrcode-monkey.com/qr-code-api-with-logo/
 
 CPF DataPro: 
 https://rapidapi.com/whitegf/api/cpf-datapro1
@@ -18,6 +21,15 @@ https://rapidapi.com/bonaipowered/api/news-api14
 
 Shazam API (music recognize):
 https://rapidapi.com/diyorbekkanal/api/shazam-api6
+
+Convert Word to PDF:
+https://apyhub.com/utility/converter-doc-pdf
+
+HTML to PDF:
+https://html2pdf.app/
+
+Edit Documents:
+https://www.iloveapi.com/
 
 Media Download All in One:
 https://rapidapi.com/nguyenmanhict-MuTUtGWD7K/api/auto-download-all-in-one-big
@@ -59,6 +71,9 @@ https://rapidapi.com/acelogicgaming/api/osint-tool-investigation
 Telegram Scraper:
 https://rapidapi.com/nyansterowo/api/telegram-scraper-api
 
+MAC Address API:
+https://macaddress.io/api
+
 IP: 
 https://ip-api.com/docs/api:json
 
@@ -95,6 +110,7 @@ https://rapidapi.com/arcadem72007/api/cybertools
 Vulnerability Scanner: 
 https://rapidapi.com/nusantaracodedotcom/api/vulnerability-scanner2
 
-
+Proxy Rotativo:
+https://proxykingdom.com/
 
 
