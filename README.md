@@ -40,6 +40,9 @@ https://rapidapi.com/periclesdambroski1/api/consulta-nome1
 Consulta Todos os CPF por Nome:
 https://rapidapi.com/trzdev/api/consulta-nome2
 
+CPF / CNPJ:
+https://www.cpfcnpj.com.br/dev/
+
 Consulta Nome (DB do SUS):
 https://rapidapi.com/astrahvhdev/api/api-consulta-nome-cadsus
 
