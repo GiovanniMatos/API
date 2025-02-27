@@ -37,8 +37,14 @@ https://rapidapi.com/periclesdambroski1/api/consulta-numero
 Consulta Nome:
 https://rapidapi.com/periclesdambroski1/api/consulta-nome1
 
+Consulta Todos os CPF por Nome:
+https://rapidapi.com/trzdev/api/consulta-nome2
+
 Consulta Nome (DB do SUS):
 https://rapidapi.com/astrahvhdev/api/api-consulta-nome-cadsus
+
+Consulta CPF (DB do SUS):
+https://rapidapi.com/astrahvhdev/api/api-consulta-cpf-cadsus
 
 PDF to text:
 https://rapidapi.com/sam.koucha/api/pdf-to-text
