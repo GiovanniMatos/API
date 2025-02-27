@@ -1,5 +1,9 @@
 # API List
 
+From:
+https://publicapis.dev/
+https://rapidapi.com/hub
+
 ## General Projects
 File.io:
 https://www.file.io/
