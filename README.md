@@ -1,5 +1,8 @@
 # API List
 
+QR Code with Logo: <br/>
+https://rapidapi.com/qrcode-monkey/api/custom-qr-code-with-logo
+
 IP: </br>
 https://ip-api.com/docs/api:json
 
